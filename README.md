@@ -14,6 +14,9 @@ To install the dependencies, you can create a virtual environment and install th
 pip install -r requirements.txt
 ```
 ### Clone the Repository
+```bash
+git clone https://github.com/igoldshm/MonetGAN
+```
 
 ## License
 This project is licensed under the MIT License.
