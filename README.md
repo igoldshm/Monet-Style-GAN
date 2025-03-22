@@ -10,7 +10,8 @@ matplotlib
 Pillow
 
 To install the dependencies, you can create a virtual environment and install the requirements using the following command:
-'''bash
+'''
 pip install -r requirements.txt
+
 '''
 
